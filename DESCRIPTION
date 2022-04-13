@@ -1,0 +1,21 @@
+Package: NeriMisc
+Type: Package
+Title: Neri's Miscellaneous helper functions
+Version: 0.3.0
+Author: Uri Neri
+Maintainer: Uri Neri <urineri@mail.tau.ac.il>
+Description: Miscellaneous helper functions I made / forked over time. 
+     Made with the purpose of helping people use my scripts.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Imports: 
+    Biostrings,
+    data.table,
+    stringr,
+    fastSave,
+    ggplot2,
+    BBmisc,
+    devtools,
+    utils

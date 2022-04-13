@@ -1,0 +1,14 @@
+Name: Open last file
+Description: Call this function to open the last file (or at least the first line in file_mru)
+Binding: open_last_file
+Interactive: false
+
+Name: Open all recent file
+Description: Call this function to open the all the files in file_mru
+Binding: open_all_recent_files
+Interactive: false
+
+Name: Select one recent file
+Description: Sekect one file from the files listed in file_mru
+Binding: open_selected_recent_file
+Interactive: false
